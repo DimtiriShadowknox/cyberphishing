@@ -75,18 +75,14 @@ This project was created as a Cybersecurity Bootcamp Final Project to demonstrat
 
 - Understanding of phishing attack vectors
 - Knowledge of security operations (SOC workflows)
-- Ability to think like both an attacker and defender
+- Ability to think like both an attacker and a defender
 - Frontend development skills applied to cybersecurity education
 
 # 📂 How to Run
-1. Clone the repository:
-git clone https://github.com/yourusername/cyberphishing.git
+1. Download CyberPhishing.html
 
-2. Open the project:
-cd cyberphishing
+2. Open index.html in your browser
 
-3. Launch:
-Open index.html in your browser
 
 # 👤 Author
 - DimitriShadowknox 
